@@ -1,5 +1,8 @@
 # Xcalcy
 A Calendar of ruby-xcal for Conky<br>
+注意：既に Conkyを活用している人は、<br>
+~/.conkyrc が、上書きされるので注意してください。<br>
+<br>
 Ruby の xcal を、Conky で綺麗に表示するためのパッケージです。<br>
 <br>
 インストールするだけで日本語のカレンダーが表示されます。<br>
